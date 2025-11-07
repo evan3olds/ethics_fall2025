@@ -1,23 +1,40 @@
 ---
 permalink: /casestudy/
-title: "Case Study"
+title: "The illusion of free-to-play games"
 author_profile: true
 ---
 
-**Articles:**
-[Addicted Whales](https://www.proquest.com/psycinfo/docview/1789507671/AD932E6AAF9B4BCEPQ/2?accountid=351)
-[Wealthy gamers or Problem Gamers?](https://www.proquest.com/psycinfo/docview/2514739308/AD932E6AAF9B4BCEPQ/4?accountid=351)
-[Gaming disorder](https://www.proquest.com/psycinfo/docview/2923420053/AD932E6AAF9B4BCEPQ/5?accountid=351)
+## Abstract 
+
+Evan Olds
+
+Henry LaChance 
+
+## Learning Objectives
+
+## 1. Introduction
+
+## 2. Whales
+
+## 2.1 Gambling
+
+## 2.2 Cosmetics
+
+## 3. Conclusion
+
+## Discussion Questions and Activities
+
+**Subpages:**
 
 [Go to activity page](activity/)
+
 [Go to stakeholder 1](stakeholder1/)
 
-## Overview
+**Articles:**
 
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
+[Addicted Whales](https://www.proquest.com/psycinfo/docview/1789507671/AD932E6AAF9B4BCEPQ/2?accountid=351)
 
-## Requirements
+[Wealthy gamers or Problem Gamers?](https://www.proquest.com/psycinfo/docview/2514739308/AD932E6AAF9B4BCEPQ/4?accountid=351)
 
-Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
+[Gaming disorder](https://www.proquest.com/psycinfo/docview/2923420053/AD932E6AAF9B4BCEPQ/5?accountid=351)
 
