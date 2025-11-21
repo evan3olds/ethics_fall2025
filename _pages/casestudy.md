@@ -18,17 +18,49 @@ Aspiring game developer.
  
 ## Learning Objectives
 
+* Understand how free-to-play (F2P) monetization models psychologically influence player spending behavior.
+* Identify ethical concerns surrounding microtransactions, loot boxes, and gacha mechanics.
+* Identify how game design can create funnels for players to purchase microtransactions.
+* Evaluate the difference between healthy game engagement and exploitative design aimed at vulnerable players.
+* Explore the role of regulation, transparency, and player protection in modern game economies.
+
+
+
+
 ## 1. Introduction
+When games began going free-to-play in the early 2000s, the first being Nexon's QuizQuiz in 1999. The first game to include microtransactions was in The Elder Scrolls IV: Oblivion and it was horse armor that you could buy for $2.50. This game was not free-to-play. Already there was backlash against this, but little did gamers know what was about to come. The first major shift in this market I would argue comes from the release of Team Fortress 2, specifically an update adding loot boxes that you could open and sell the items for real money. Just a year later it went free-to-play, I am assuming for more profit in turn with the larger player count. Grindy mobile games like Clash of Clans implemented gems to speed up progress. What might surprise you is that most of the money generated comes from a small percentage of players in these games.
 
 ## 2. Whales
+Whales are big. Whales can be wealthy people, streamers, or people who blow their paychecks. A lot of these microtransactions in games have hooks in them to encourage players to continue to not only play but to continue to make in-game purchases. The longer the players spend playing the game the more chance they have to spend money. This in turn hurts vulnerable players that have addictive tendencies, compulsion issues, and social pressure.
+
+Another interesting thing we found was how mobile game ads that are obviously not real games are made that way on purpose. They are made to filter out players who would not critically think about that. This increases the odds they are someone who would make a poor decision and spend money in that game.
 
 ## 2.1 Gambling
+One of the largest components of microtransactions in video games are lootboxes, they generate hundreds of millions even billions of dollars each year. They mimic casinos shamelessly, and they do not have regulations that stop children from using them. This is a large problem because they are young impressionable and can become addicted, and learn addiction basically. I have personal experience with this and CSGO. 
+
+Fortunately countries like Belgium and Japan have regulations targeting Gacha games, and loot boxes. Companies like Valve, who own Steam, CSGO/CS2, and TF2 have avoided these regulations by changing how opening the loot boxes function. Instead you use an “x-ray” tool to see inside, but you are required to buy the x-ray tool, so it is basically the same but without the obvious casino spin element.
+
+Gacha games heavily play into the “free-to-download” trend, as they have been slowly getting harder to play without making purchases. Most of these games make characters hard to obtain without paying, and heavily buff characters when you spend more to get the character multiple times. This targets players that aren’t patient and might get annoyed easily, if they mess up or struggle, they might just spend money in an attempt to get better characters. A lot of times, the money spent doesn’t equate to anything, and you need to spend a lot before something is guaranteed.
 
 ## 2.2 Cosmetics
+Games like Fortnite introduce battle passes which have limited time items that players can buy. These items can cause FOMO and increase sails because of their perceived limited value. Ethical tension arises from these cosmetics seem harmless, yet their sales strategies intentionally exploit psychological triggers.
+
+
 
 ## 3. Conclusion
+It is important to consider and regulate these more often than not, predatory tactics for making money in the game industry.
 
 ## Discussion Questions and Activities
+
+Should we outright ban the use of lootboxes for real life currency in video games? Why or why not?
+
+At what point does player responsibility become overshadowed by exploitative design?
+
+How should developers ethically balance profit with player health?
+
+
+Activity idea: Create a mock game concept and redesign its monetization system to be more ethical
+
 
 **Subpages:**
 
