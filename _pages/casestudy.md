@@ -10,10 +10,10 @@ An ethical study on transactions in video games.
 
 Video Games have been subjected to a lot of commercialization. Companies have implemented extra transactional items, ranging from cosmetics to loot boxes. These can have advantages to gameplay, or be purely aesthetic. Most players will either pass on purchasing or just buy a couple items. The most money generated from these games are from a small percentage of players, known as “Whales”. Ethical issues arise from targeting the players who may be vulnerable. The free-to-play genre has been shifting towards a more ‘free-to-download’ model, as companies have been heavily incentivizing purchases, and making it harder to play without spending money. Mobile games and gacha games are an example of this change, with many purchases shoved in the player’s face. Games are shifting from time and skill based to relying on transactions.
 
-Evan Olds
+Evan Olds - 
 Aspiring violinist.
 
-Henry LaChance 
+Henry LaChance - 
 Aspiring game developer.
  
 ## Learning Objectives
@@ -46,20 +46,14 @@ Gacha games heavily play into the “free-to-download” trend, as they have bee
 Games like Fortnite introduce battle passes which have limited time items that players can buy. These items can cause FOMO and increase sails because of their perceived limited value. Ethical tension arises from these cosmetics seem harmless, yet their sales strategies intentionally exploit psychological triggers.
 
 
-
 ## 3. Conclusion
-It is important to consider and regulate these more often than not, predatory tactics for making money in the game industry.
+It is important to consider and regulate these more often than not. There are many predatory tactics for making money in the game industry.
 
 ## Discussion Questions and Activities
-
-Should we outright ban the use of lootboxes for real life currency in video games? Why or why not?
-
-At what point does player responsibility become overshadowed by exploitative design?
-
-How should developers ethically balance profit with player health?
-
-
-Activity idea: Create a mock game concept and redesign its monetization system to be more ethical
+* Should we outright ban the use of lootboxes for real life currency in video games? Why or why not?
+* At what point does player responsibility become overshadowed by exploitative design?
+* How should developers ethically balance profit with player health?
+* Activity idea: Create a mock game concept and redesign its monetization system to be more ethical
 
 
 **Subpages:**
