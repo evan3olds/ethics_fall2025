@@ -53,7 +53,8 @@ It is important to consider and regulate these more often than not. There are ma
 * Should we outright ban the use of lootboxes for real life currency in video games? Why or why not?
 * At what point does player responsibility become overshadowed by exploitative design?
 * How should developers ethically balance profit with player health?
-* Activity idea: Create a mock game concept and redesign its monetization system to be more ethical
+
+**Activity idea**: Create a mock game concept and redesign its monetization system to be more ethical
 
 
 **Subpages:**
