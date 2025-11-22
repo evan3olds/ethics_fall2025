@@ -1,5 +1,5 @@
 ---
-title: "Stakeholder 2"
+title: "Paying players"
 layout: default
 ---
-Content for Stakeholder 2.
+These are the players that spend money on games. 
