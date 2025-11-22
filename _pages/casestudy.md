@@ -16,6 +16,17 @@ Aspiring violinist.
 Henry LaChance - 
 Aspiring game developer.
  
+## Table of Contents 
+1. Introduction
+
+2. Whales
+* 2.1 Gambling
+* 2.2 Cosmetics
+
+3. Conclusion
+
+4. Discussion Questions and Activities
+
 ## Learning Objectives
 
 * Understand how free-to-play (F2P) monetization models psychologically influence player spending behavior.
@@ -23,7 +34,6 @@ Aspiring game developer.
 * Identify how game design can create funnels for players to purchase microtransactions.
 * Evaluate the difference between healthy game engagement and exploitative design aimed at vulnerable players.
 * Explore the role of regulation, transparency, and player protection in modern game economies.
-
 
 
 
@@ -49,7 +59,7 @@ Games like Fortnite introduce battle passes which have limited time items that p
 ## 3. Conclusion
 It is important to consider and regulate these more often than not. There are many predatory tactics for making money in the game industry.
 
-## Discussion Questions and Activities
+## 4. Discussion Questions and Activities
 * Should we outright ban the use of lootboxes for real life currency in video games? Why or why not?
 * At what point does player responsibility become overshadowed by exploitative design?
 * How should developers ethically balance profit with player health?
