@@ -1,5 +1,5 @@
 ---
 title: "Paying players"
-layout: single
+layout: archive
 ---
 These are the players that spend money on games. 
