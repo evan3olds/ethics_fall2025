@@ -7,4 +7,4 @@ Free-to-play players are the players of these games that do not spend money. The
 
 
 
-<-Activity           Stakeholder 2->
+<-- [Back](casestudy/)     <- [Stakeholder 2](stakeholder2/) [Stakeholder 3](stakeholder3/) ->
