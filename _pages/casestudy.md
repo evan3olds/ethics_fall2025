@@ -19,13 +19,16 @@ Aspiring game developer.
 ## Table of Contents 
 1. Introduction
 
-2. Whales
-* 2.1 Gambling
-* 2.2 Cosmetics
+2.1 Whales
+2.2 Gambling
+2.3 Pay-to-Win
+2.4 Cosmetics
+2.5 Incentivization Techniques
 
 3. Conclusion
 
-4. Discussion Questions and Activities
+4. Discussion Questions and Activity
+
 
 ## Learning Objectives
 
@@ -64,12 +67,9 @@ It is important to consider and regulate these more often than not. There are ma
 * At what point does player responsibility become overshadowed by exploitative design?
 * How should developers ethically balance profit with player health?
 
-**Activity idea**: Create a mock game concept and redesign its monetization system to be more ethical
-
+After answering these questions, here is an activity to help think about microtransactions in relation to games you’ve played. [Go to activity page](activity/)
 
 **Subpages:**
-
-[Go to activity page](activity/)
 
 [Go to stakeholder 1](stakeholder1/)
 
