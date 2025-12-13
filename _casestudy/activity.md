@@ -1,11 +1,12 @@
 ---
-title: "Activity"
+title: "Activity: I Spy"
 layout: archive
 ---
 
-# I Spy 
 Pick your favorite game and play a couple rounds. When you are playing, pay attention to the microtransactions present throughout the game.
+
 ---
+
 ## Where
 Where are the microtransactions located in the game? Are they placed somewhere like a menu, or do they invade your screen when playing normally?
 
