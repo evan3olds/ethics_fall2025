@@ -66,7 +66,7 @@ Games like Fortnite introduce battle passes which have limited time items that p
 # 3. Conclusion
 It is important to consider and regulate these more often than not. There are many predatory tactics for making money in the game industry.
 
-## 3.1 Discussion Questions and Activities
+## 3.1 Discussion Questions and Activity
 * Should we outright ban the use of lootboxes for real life currency in video games? Why or why not?
 * At what point does player responsibility become overshadowed by exploitative design?
 * How should developers ethically balance profit with player health?
