@@ -46,19 +46,21 @@ When games began going free-to-play in the early 2000s, the first being Nexon's 
 
 # 2. Overview
 
-## 2. Whales
+## 2.1 Whales
 Whales are big. Whales can be wealthy people, streamers, or people who blow their paychecks. A lot of these microtransactions in games have hooks in them to encourage players to continue to not only play but to continue to make in-game purchases. The longer the players spend playing the game the more chance they have to spend money. This in turn hurts vulnerable players that have addictive tendencies, compulsion issues, and social pressure.
 
 Another interesting thing we found was how mobile game ads that are obviously not real games are made that way on purpose. They are made to filter out players who would not critically think about that. This increases the odds they are someone who would make a poor decision and spend money in that game.
 
-## 2.1 Gambling
+## 2.2 Gambling
 One of the largest components of microtransactions in video games are lootboxes, they generate hundreds of millions even billions of dollars each year. They mimic casinos shamelessly, and they do not have regulations that stop children from using them. This is a large problem because they are young impressionable and can become addicted, and learn addiction basically. I have personal experience with this and CSGO. 
 
-Fortunately countries like Belgium and Japan have regulations targeting Gacha games, and loot boxes. Companies like Valve, who own Steam, CSGO/CS2, and TF2 have avoided these regulations by changing how opening the loot boxes function. Instead you use an “x-ray” tool to see inside, but you are required to buy the x-ray tool, so it is basically the same but without the obvious casino spin element.
+Fortunately countries like Belgium and Japan have regulations targeting Gacha games, and loot boxes. Companies like Valve, who own Steam, CSGO/CS2, and TF2 have avoided these regulations by changing how opening the loot boxes function. For example CSGO implemented the use of an “x-ray” tool to see inside lootboxes, but you are required to buy the x-ray tool, so it functions the same as opening a lootbox but without the obvious casino spin element, thus getting around regulations.
 
-Gacha games heavily play into the “free-to-download” trend, as they have been slowly getting harder to play without making purchases. Most of these games make characters hard to obtain without paying, and heavily buff characters when you spend more to get the character multiple times. This targets players that aren’t patient and might get annoyed easily, if they mess up or struggle, they might just spend money in an attempt to get better characters. A lot of times, the money spent doesn’t equate to anything, and you need to spend a lot before something is guaranteed.
+## 2.3 Pay-to-Win
+Gacha games are a big pay-to-win genre in gaming, where players spend money to roll for a character or item. Gacha games heavily play into the “free-to-download” trend, as they have been slowly getting harder to play without making purchases. Most of these games make characters hard to obtain without paying, and heavily buff characters when you spend more to get the character multiple times. This targets players that aren’t patient and might get annoyed easily. If they mess up or struggle, they might just spend money in an attempt to get better characters. A lot of times, the money spent doesn’t equate to anything, and you need to spend a lot before something is guaranteed.
 
-## 2.2 Cosmetics
+
+## 2.4 Cosmetics
 Games like Fortnite introduce battle passes which have limited time items that players can buy. These items can cause FOMO and increase sails because of their perceived limited value. Ethical tension arises from these cosmetics seem harmless, yet their sales strategies intentionally exploit psychological triggers.
 
 
