@@ -17,18 +17,18 @@ Henry LaChance -
 Aspiring game developer.
  
 ## Table of Contents 
-`1.` Introduction
+1\. Introduction
 
-`2.` Overview
+2\. Overview
 * 2.1 Whales
 * 2.2 Gambling
 * 2.3 Pay-to-Win
 * 2.4 Cosmetics
 * 2.5 Incentivization Techniques
 
-`3.` Conclusion
+3\. Conclusion
 
-`4.` Discussion Questions and Activity
+4\. Discussion Questions and Activity
 
 
 ## Learning Objectives
