@@ -4,4 +4,4 @@ layout: archive
 ---
 Content for your interactive activity.
 
-<-- [Back](/casestudy/)
+<-- [Back](/ethics_fall2025/casestudy/)
