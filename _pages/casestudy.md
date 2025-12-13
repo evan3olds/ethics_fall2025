@@ -17,17 +17,18 @@ Henry LaChance -
 Aspiring game developer.
  
 ## Table of Contents 
-1. Introduction
+`1.` Introduction
 
-2.1 Whales
-2.2 Gambling
-2.3 Pay-to-Win
-2.4 Cosmetics
-2.5 Incentivization Techniques
+`2.` Overview
+* 2.1 Whales
+* 2.2 Gambling
+* 2.3 Pay-to-Win
+* 2.4 Cosmetics
+* 2.5 Incentivization Techniques
 
-3. Conclusion
+`3.` Conclusion
 
-4. Discussion Questions and Activity
+`4.` Discussion Questions and Activity
 
 
 ## Learning Objectives
@@ -40,8 +41,10 @@ Aspiring game developer.
 
 
 
-## 1. Introduction
+# 1. Introduction
 When games began going free-to-play in the early 2000s, the first being Nexon's QuizQuiz in 1999. The first game to include microtransactions was in The Elder Scrolls IV: Oblivion and it was horse armor that you could buy for $2.50. This game was not free-to-play. Already there was backlash against this, but little did gamers know what was about to come. The first major shift in this market I would argue comes from the release of Team Fortress 2, specifically an update adding loot boxes that you could open and sell the items for real money. Just a year later it went free-to-play, I am assuming for more profit in turn with the larger player count. Grindy mobile games like Clash of Clans implemented gems to speed up progress. What might surprise you is that most of the money generated comes from a small percentage of players in these games.
+
+# 2. Overview
 
 ## 2. Whales
 Whales are big. Whales can be wealthy people, streamers, or people who blow their paychecks. A lot of these microtransactions in games have hooks in them to encourage players to continue to not only play but to continue to make in-game purchases. The longer the players spend playing the game the more chance they have to spend money. This in turn hurts vulnerable players that have addictive tendencies, compulsion issues, and social pressure.
@@ -59,10 +62,10 @@ Gacha games heavily play into the “free-to-download” trend, as they have bee
 Games like Fortnite introduce battle passes which have limited time items that players can buy. These items can cause FOMO and increase sails because of their perceived limited value. Ethical tension arises from these cosmetics seem harmless, yet their sales strategies intentionally exploit psychological triggers.
 
 
-## 3. Conclusion
+# 3. Conclusion
 It is important to consider and regulate these more often than not. There are many predatory tactics for making money in the game industry.
 
-## 4. Discussion Questions and Activities
+## Discussion Questions and Activities
 * Should we outright ban the use of lootboxes for real life currency in video games? Why or why not?
 * At what point does player responsibility become overshadowed by exploitative design?
 * How should developers ethically balance profit with player health?
