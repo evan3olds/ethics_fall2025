@@ -77,11 +77,4 @@ It is important to consider and regulate these more often than not. There are ma
 
 [Go to stakeholder 3](stakeholder3/)
 
-**Articles:**
-
-[Addicted Whales](https://www.proquest.com/psycinfo/docview/1789507671/AD932E6AAF9B4BCEPQ/2?accountid=351)
-
-[Wealthy gamers or Problem Gamers?](https://www.proquest.com/psycinfo/docview/2514739308/AD932E6AAF9B4BCEPQ/4?accountid=351)
-
-[Gaming disorder](https://www.proquest.com/psycinfo/docview/2923420053/AD932E6AAF9B4BCEPQ/5?accountid=351)
-
+[Go to Works Cited](citations/)

@@ -12,4 +12,4 @@ Close, J., Spicer, S. G., Nicklin, L. L., Uther, M., Lloyd, J., & Lloyd, H. (202
 Tham, S. M., & Perreault, G. P. (2021). A whale of a tale: Gaming disorder and spending and their associations with ad watching in role-playing and loot-box gaming. Journal of Gambling Issues, 46, 62-81. [https://doi.org/10.4309/jgi.2021.46.5](https://doi.org/10.4309/jgi.2021.46.5)
 
 
-<-- [Back](https://evan3olds.github.io/ethics_fall2025/casestudy/)
+<-- [Back](/casestudy/)
